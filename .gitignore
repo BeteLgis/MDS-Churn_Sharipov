@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+data/
+catboost_info/
+internal/
+*.db
