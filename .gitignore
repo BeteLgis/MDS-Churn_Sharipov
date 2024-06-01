@@ -6,4 +6,6 @@ __pycache__/
 data/
 catboost_info/
 internal/
+temp/
+_*
 *.db
