@@ -20,6 +20,7 @@ PATH = Path('.')
 DATASETS_PATH = PATH / 'data'
 INTERNAL_PATH = PATH / Path('internal')
 PARAMS_PATH = PATH / Path('params')
+SUBMIT_PATH = PATH / Path('submit')
 
 
 def seed_everything(seed):
